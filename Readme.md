@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/E2907/Form1.cs) (VB: [Form1.vb](./VB/E2907/Form1.vb))
+* [Program.cs](./CS/E2907/Program.cs) (VB: [Program.vb](./VB/E2907/Program.vb))
+<!-- default file list end -->
 # How to filter against a grid column that displays RTF data
 
 
